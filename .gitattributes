@@ -1,0 +1,6 @@
+app/Photos/Photos.apk filter=lfs diff=lfs merge=lfs -text
+priv-app/GmsCore/GmsCore.apk filter=lfs diff=lfs merge=lfs -text
+priv-app/Velvet/Velvet.apk filter=lfs diff=lfs merge=lfs -text
+priv-app/Velvet/oat/arm64/Velvet.vdex filter=lfs diff=lfs merge=lfs -text
+app/Chrome/Chrome.apk filter=lfs diff=lfs merge=lfs -text
+app/YouTube/YouTube.apk filter=lfs diff=lfs merge=lfs -text
